@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.curator:curator-client:4.0.1">
+    <CLASSES>
+      <root url="jar://G:/DEV_ENV/MAVEN_LOCAL_REP/org/apache/curator/curator-client/4.0.1/curator-client-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/DEV_ENV/MAVEN_LOCAL_REP/org/apache/curator/curator-client/4.0.1/curator-client-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/DEV_ENV/MAVEN_LOCAL_REP/org/apache/curator/curator-client/4.0.1/curator-client-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

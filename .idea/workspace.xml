@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76c60c6b-13ff-440b-ad2a-a82051409d92" name="Default Changelist" comment="lsh---20210507---first提交">
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/lyzd/cloud/EurekaMain7002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lsh" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lyzd/cloud/PaymentMain8001.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lyzd/cloud/controller/OrderController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/DEV_ENV/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\DEV_ENV\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1r5sqIchNx7UVz05k2iU3Zk5ljy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="F:/0ideaLearn/springCloudAlibaba" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20147194" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0Learn\MyLearn\cloudLearn\springCloudLearn\cloud-provider-payment8004\src\main" />
+      <recent name="D:\0Learn\MyLearn\cloudLearn\springCloudLearn\cloud-provider-payment8004\src\main\resources" />
+      <recent name="D:\0Learn\MyLearn\cloudLearn\springCloudLearn\cloud-provider-payment8002\src\main\resources" />
+      <recent name="D:\0Learn\MyLearn\cloudLearn\springCloudLearn\cloud-provider-payment8002\src\main\java" />
+      <recent name="D:\0Learn\MyLearn\cloudLearn\springCloudLearn\cloud-eureka-server7002\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentMain8004">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="PaymentMain8002" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderConsumerMain001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="PaymentMain8001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7002" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="OrderConsumerMain001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7002" type="SpringBootApplicationConfigurationType" />
+      <toRun name="PaymentMain8002" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="PaymentMain8001" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="CompoundRunConfigurationType">
+      <toRun name="PaymentMain8002" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OrderConsumerMain001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="PaymentMain8001" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaMain7002" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsumerMain001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.OrderConsumerMain001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud.PaymentMain8004" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.all" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.OrderConsumerMain001" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76c60c6b-13ff-440b-ad2a-a82051409d92" name="Default Changelist" comment="" />
+      <created>1618277476657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618277476657</updated>
+      <workItem from="1618277478857" duration="3506000" />
+      <workItem from="1618449226886" duration="1874000" />
+      <workItem from="1618456706746" duration="1360000" />
+      <workItem from="1618465613599" duration="129000" />
+      <workItem from="1618467217099" duration="9458000" />
+      <workItem from="1618477367473" duration="5573000" />
+      <workItem from="1618531938795" duration="2055000" />
+      <workItem from="1618536401466" duration="2151000" />
+      <workItem from="1618538591791" duration="12979000" />
+      <workItem from="1618577749323" duration="4042000" />
+      <workItem from="1618791414542" duration="6841000" />
+      <workItem from="1618815108920" duration="3346000" />
+      <workItem from="1618877952898" duration="508000" />
+      <workItem from="1618878502982" duration="9247000" />
+      <workItem from="1618929390192" duration="2663000" />
+      <workItem from="1618932261354" duration="842000" />
+      <workItem from="1618933223123" duration="3180000" />
+      <workItem from="1619315303535" duration="4363000" />
+      <workItem from="1619408805077" duration="5024000" />
+      <workItem from="1619684198529" duration="1092000" />
+      <workItem from="1619750007476" duration="597000" />
+      <workItem from="1620360344884" duration="806000" />
+      <workItem from="1621838545046" duration="1755000" />
+      <workItem from="1622433020919" duration="49000" />
+    </task>
+    <task id="LOCAL-00001" summary="lsh---20210416---首次提交">
+      <created>1618577869334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618577869334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lsh---20210416---2次提交">
+      <created>1618585597742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618585597742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lsh---20210419---1次提交">
+      <created>1618819090161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618819090161</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lsh---20210421---first提交">
+      <created>1619317727874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619317727874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lsh---20210426---first提交">
+      <created>1619409488748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619409488748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lsh---20210426---second提交">
+      <created>1619410281187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619410281187</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lsh---20210507---first提交">
+      <created>1620360536788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620360536788</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/springCloudLearn" />
+      <path value="F:/gitRepository" />
+    </ignored-roots>
+    <MESSAGE value="lsh---20210416---首次提交" />
+    <MESSAGE value="lsh---20210416---2次提交" />
+    <MESSAGE value="lsh---20210419---1次提交" />
+    <MESSAGE value="lsh---20210421---first提交" />
+    <MESSAGE value="lsh---20210426---first提交" />
+    <MESSAGE value="lsh---20210426---second提交" />
+    <MESSAGE value="lsh---20210507---first提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="lsh---20210507---first提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
